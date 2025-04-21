@@ -23,6 +23,7 @@ A simple and efficient PDF document summarizer built using **LangChain**, **Chro
 ```bash
 git clone https://github.com/blunterdecosta123/langchain-chroma-summary.git
 cd langchain-chroma-summary
+```
 
 ### 2️⃣ Install Dependencies
 
@@ -32,6 +33,7 @@ It's recommended to use a virtual environment:
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+```
 
 ### 🖥️ How to Use
 
@@ -39,6 +41,7 @@ Run the Streamlit app:
 
 ```bash
 streamlit run streamlit_app.py
+```
 
 Enter your OpenAI API Key
 
