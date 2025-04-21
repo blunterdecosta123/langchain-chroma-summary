@@ -1,6 +1,6 @@
 # langchain-chroma-summary
 
-![alt text](../images/langchain-chroma-summary.png)
+![alt text](images/langchain-chroma-summary.png)
 
 A simple and efficient PDF document summarizer built using **LangChain**, **Chroma VectorDB**, **OpenAI's LLM APIs**, and **Streamlit** for an interactive web UI. Upload a PDF, and get a clean AI-generated summary powered by vector similarity search and language models.
 
